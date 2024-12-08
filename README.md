@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 ---
 
 ## 📈 **GitHub Stats**
-![Poorna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=poornagunasekera&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poornagunasekera&layout=compact&theme=radical)
+![Poorna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT21161674&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21161674&layout=compact&theme=radical)
 
 ---
 
