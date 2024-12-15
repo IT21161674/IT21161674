@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 ---
 
 ## 📈 **GitHub Stats**
-![Poorna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT21161674&show_icons=true&theme=radical)
+![Poorna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT21161674&show_icons=true&theme=radical&cache_seconds=86400)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21161674&layout=compact&theme=radical&cache_seconds=86400)
 
 ---
